@@ -1,0 +1,1991 @@
+INFO:root:ø™ º ±º‰:2016-09-12 16:19:39
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE20160912151906
+INFO:root:delete exists table :GIS_ZDLUCE20160912152610
+INFO:root:delete exists table :GIS_ZDLUCE20160912144959
+INFO:root:delete exists table :GIS_ZDLUCE20160912150018
+INFO:root:delete exists table :GIS_ZDLUCE20160912160118
+INFO:root:delete exists table :GIS_ZDLUCE20160912143721
+INFO:root:delete exists table :GIS_ZDLUCE20160912150247
+INFO:root:delete exists table :GIS_ZDLUCE20160912151120
+INFO:root:delete exists table :GIS_ZDLUCE20160912151600
+INFO:root:delete exists table :GIS_ZDLUCE20160912155454
+INFO:root:delete exists table :GIS_ZDLUCE20160912160617
+INFO:root:delete exists table :GIS_ZDLUCE20160912160745
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-12 16:21:01
+INFO:root:ø™ º ±º‰:2016-09-12 17:21:08
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-12 17:22:00
+INFO:root:ø™ º ±º‰:2016-09-13 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE20160912160900
+INFO:root:delete exists table :GIS_ZDLUCE20160912161016
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-13 04:20:03
+INFO:root:ø™ º ±º‰:2016-09-14 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE20160912175629
+INFO:root:delete exists table :GIS_ZDLUCE20160912180258
+INFO:root:delete exists table :GIS_ZDLUCE20160912162531
+INFO:root:delete exists table :GIS_ZDLUCE20160912181352
+INFO:root:delete exists table :GIS_ZDLUCE20160912174414
+ERROR:root:ERROR 000464: Êó†Ê≥ïËé∑ÂèñÁã¨Âç†ÊñπÊ°àÈîÅ„ÄÇÂÆÉÊ≠£Ë¢´ÂÖ∂‰ªñÂ∫îÁî®Á®ãÂ∫èÁºñËæëÊàñ‰ΩøÁî®„ÄÇ
+ÊâßË°å(Delete)Â§±Ë¥•„ÄÇ
+
+INFO:root:ø™ º ±º‰:2016-09-14 08:35:59
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE20160912174414
+ERROR:root:ERROR 000464: Êó†Ê≥ïËé∑ÂèñÁã¨Âç†ÊñπÊ°àÈîÅ„ÄÇÂÆÉÊ≠£Ë¢´ÂÖ∂‰ªñÂ∫îÁî®Á®ãÂ∫èÁºñËæëÊàñ‰ΩøÁî®„ÄÇ
+ÊâßË°å(Delete)Â§±Ë¥•„ÄÇ
+
+INFO:root:ø™ º ±º‰:2016-09-14 08:39:23
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE20160912174414
+INFO:root:delete exists table :GIS_ZDLUCE20160912182004
+INFO:root:delete exists table :GIS_ZDLUCE20160912171905
+INFO:root:delete exists table :GIS_ZDLUCE20160912172220
+INFO:root:delete exists table :GIS_ZDLUCE20160912172706
+INFO:root:delete exists table :GIS_ZDLUCE20160912171407
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-14 08:40:51
+INFO:root:ø™ º ±º‰:2016-09-14 10:19:54
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE20160914090507
+INFO:root:delete exists table :GIS_ZDLUCE20160914093622
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-14 10:20:53
+INFO:root:ø™ º ±º‰:2016-09-14 15:06:41
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-14 15:08:34
+INFO:root:ø™ º ±º‰:2016-09-15 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-15 04:20:11
+INFO:root:ø™ º ±º‰:2016-09-16 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-16 04:20:31
+INFO:root:ø™ º ±º‰:2016-09-17 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-17 04:20:46
+INFO:root:ø™ º ±º‰:2016-09-18 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:ø™ º ±º‰:2016-09-18 10:25:56
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-18 10:27:07
+INFO:root:ø™ º ±º‰:2016-09-19 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE20160913221754
+INFO:root:delete exists table :GIS_ZDLUCE20160918153806
+ERROR:root:ERROR 000464: Êó†Ê≥ïËé∑ÂèñÁã¨Âç†ÊñπÊ°àÈîÅ„ÄÇÂÆÉÊ≠£Ë¢´ÂÖ∂‰ªñÂ∫îÁî®Á®ãÂ∫èÁºñËæëÊàñ‰ΩøÁî®„ÄÇ
+ÊâßË°å(Delete)Â§±Ë¥•„ÄÇ
+
+INFO:root:ø™ º ±º‰:2016-09-19 09:22:39
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE20160918153806
+INFO:root:delete exists table :GIS_ZDLUCE20160918224759
+INFO:root:delete exists table :GIS_ZDLUCE20160918225206
+INFO:root:delete exists table :GIS_ZDLUCE20160918225257
+INFO:root:delete exists table :GIS_ZDLUCE20160918225609
+INFO:root:delete exists table :GIS_ZDLUCE20160918225724
+INFO:root:delete exists table :GIS_ZDLUCE20160919015458
+INFO:root:delete exists table :GIS_ZDLUCE20160919015605
+INFO:root:delete exists table :GIS_ZDLUCE20160919014304
+INFO:root:delete exists table :GIS_ZDLUCE20160914114313
+INFO:root:delete exists table :GIS_ZDLUCE20160918210338
+INFO:root:delete exists table :GIS_ZDLUCE20160914102310
+INFO:root:delete exists table :GIS_ZDLUCE20160914113101
+INFO:root:delete exists table :GIS_ZDLUCE20160919014346
+INFO:root:delete exists table :GIS_ZDLUCE20160919014446
+INFO:root:delete exists table :GIS_ZDLUCE20160919014615
+INFO:root:delete exists table :GIS_ZDLUCE20160913174531
+INFO:root:delete exists table :GIS_ZDLUCE20160914095821
+INFO:root:delete exists table :GIS_ZDLUCE20160918205947
+INFO:root:delete exists table :GIS_ZDLUCE20160919013539
+INFO:root:delete exists table :GIS_ZDLUCE20160919013840
+INFO:root:delete exists table :GIS_ZDLUCE20160919013950
+INFO:root:delete exists table :GIS_ZDLUCE20160919014210
+INFO:root:delete exists table :GIS_ZDLUCE20160919014828
+INFO:root:delete exists table :GIS_ZDLUCE20160919015046
+INFO:root:delete exists table :GIS_ZDLUCE20160919015146
+INFO:root:delete exists table :GIS_ZDLUCE20160919015320
+INFO:root:delete exists table :GIS_ZDLUCE20160918215033
+INFO:root:delete exists table :GIS_ZDLUCE20160918221259
+INFO:root:delete exists table :GIS_ZDLUCE20160918230213
+INFO:root:delete exists table :GIS_ZDLUCE20160918230338
+INFO:root:delete exists table :GIS_ZDLUCE20160918164538
+INFO:root:delete exists table :GIS_ZDLUCE20160919015721
+INFO:root:delete exists table :GIS_ZDLUCE20160918201617
+INFO:root:delete exists table :GIS_ZDLUCE20160918221006
+INFO:root:delete exists table :GIS_ZDLUCE20160918153459
+ERROR:root:ERROR 000464: Êó†Ê≥ïËé∑ÂèñÁã¨Âç†ÊñπÊ°àÈîÅ„ÄÇÂÆÉÊ≠£Ë¢´ÂÖ∂‰ªñÂ∫îÁî®Á®ãÂ∫èÁºñËæëÊàñ‰ΩøÁî®„ÄÇ
+ÊâßË°å(Delete)Â§±Ë¥•„ÄÇ
+
+INFO:root:ø™ º ±º‰:2016-09-19 09:26:43
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE20160918153806
+INFO:root:delete exists table :GIS_ZDLUCE20160918153459
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-19 09:27:48
+INFO:root:ø™ º ±º‰:2016-09-20 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE20160919170010
+INFO:root:delete exists table :GIS_ZDLUCE20160919170000
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-20 04:20:29
+INFO:root:ø™ º ±º‰:2016-09-21 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE160920003918
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-21 04:20:05
+INFO:root:ø™ º ±º‰:2016-09-22 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE160921094404
+INFO:root:delete exists table :GIS_ZDLUCE160920101812
+INFO:root:delete exists table :GIS_ZDLUCE160920101953
+INFO:root:delete exists table :GIS_ZDLUCE160920005009
+INFO:root:delete exists table :GIS_ZDLUCE160920175808
+INFO:root:delete exists table :GIS_ZDLUCE20160918232225
+INFO:root:delete exists table :GIS_ZDLUCE160921090647
+INFO:root:delete exists table :GIS_ZDLUCE20160919005546
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-22 04:21:13
+INFO:root:ø™ º ±º‰:2016-09-22 14:46:35
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE160920151553
+INFO:root:delete exists table :GIS_ZDLUCE160922124538
+INFO:root:delete exists table :GIS_ZDLUCE160922131124
+INFO:root:delete exists table :GIS_ZDLUCE160922131741
+INFO:root:delete exists table :GIS_ZDLUCE160922133433
+INFO:root:delete exists table :GIS_ZDLUCE160922133845
+INFO:root:delete exists table :GIS_ZDLUCE160922141850
+INFO:root:delete exists table :GIS_ZDLUCE160921173233
+INFO:root:delete exists table :GIS_ZDLUCE160921182603
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-22 14:48:06
+INFO:root:ø™ º ±º‰:2016-09-23 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE160920130030
+INFO:root:delete exists table :GIS_ZDLUCE160920130056
+INFO:root:delete exists table :GIS_ZDLUCE160920012506
+INFO:root:delete exists table :GIS_ZDLUCE160920175726
+INFO:root:delete exists table :GIS_ZDLUCE20160919010536
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-23 04:20:56
+INFO:root:ø™ º ±º‰:2016-09-24 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE160924002020
+INFO:root:delete exists table :GIS_ZDLUCE160924011435
+INFO:root:delete exists table :GIS_ZDLUCE160923111706
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-24 04:22:47
+INFO:root:ø™ º ±º‰:2016-09-25 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-25 04:20:13
+INFO:root:ø™ º ±º‰:2016-09-26 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-26 04:20:49
+INFO:root:ø™ º ±º‰:2016-09-27 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE160922153130
+INFO:root:delete exists table :GIS_ZDLUCE160926131318
+INFO:root:delete exists table :GIS_ZDLUCE160926140416
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-27 04:20:43
+INFO:root:ø™ º ±º‰:2016-09-28 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE160923133803
+INFO:root:delete exists table :GIS_ZDLUCE160923223819
+INFO:root:delete exists table :GIS_ZDLUCE160923225440
+INFO:root:delete exists table :GIS_ZDLUCE160922150757
+INFO:root:delete exists table :GIS_ZDLUCE160923235928
+INFO:root:delete exists table :GIS_ZDLUCE160922125115
+INFO:root:delete exists table :GIS_ZDLUCE160925220332
+INFO:root:delete exists table :GIS_ZDLUCE160924005903
+INFO:root:delete exists table :GIS_ZDLUCE160926085100
+INFO:root:delete exists table :GIS_ZDLUCE160924025026
+INFO:root:delete exists table :GIS_ZDLUCE160923134755
+INFO:root:delete exists table :GIS_ZDLUCE160927102455
+INFO:root:delete exists table :GIS_ZDLUCE160926125638
+INFO:root:delete exists table :GIS_ZDLUCE160926131300
+INFO:root:delete exists table :GIS_ZDLUCE160926142519
+INFO:root:delete exists table :GIS_ZDLUCE160926145342
+INFO:root:delete exists table :GIS_ZDLUCE160926151244
+INFO:root:delete exists table :GIS_ZDLUCE160926162421
+INFO:root:delete exists table :GIS_ZDLUCE160927084312
+INFO:root:delete exists table :GIS_ZDLUCE160922090059
+INFO:root:delete exists table :GIS_ZDLUCE160922090207
+INFO:root:delete exists table :GIS_ZDLUCE160922090242
+INFO:root:delete exists table :GIS_ZDLUCE160923145401
+INFO:root:delete exists table :GIS_ZDLUCE160923181828
+INFO:root:delete exists table :GIS_ZDLUCE160923191254
+INFO:root:delete exists table :GIS_ZDLUCE160923205108
+INFO:root:delete exists table :GIS_ZDLUCE160923170614
+INFO:root:delete exists table :GIS_ZDLUCE160923170752
+INFO:root:delete exists table :GIS_ZDLUCE160925003510
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-28 04:25:14
+INFO:root:ø™ º ±º‰:2016-09-29 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-29 04:20:02
+INFO:root:ø™ º ±º‰:2016-09-30 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-09-30 04:20:44
+INFO:root:ø™ º ±º‰:2016-10-01 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE160928091138
+INFO:root:delete exists table :GIS_ZDLUCE160928091157
+INFO:root:delete exists table :GIS_ZDLUCE160928091211
+INFO:root:delete exists table :GIS_ZDLUCE160924015129
+INFO:root:delete exists table :GIS_ZDLUCE160924053152
+INFO:root:delete exists table :GIS_ZDLUCE160928165132
+INFO:root:delete exists table :GIS_ZDLUCE160928165229
+INFO:root:delete exists table :GIS_ZDLUCE160928165412
+INFO:root:delete exists table :GIS_ZDLUCE160928165436
+INFO:root:delete exists table :GIS_ZDLUCE160928165045
+INFO:root:delete exists table :GIS_ZDLUCE160928165509
+INFO:root:delete exists table :GIS_ZDLUCE160928165537
+INFO:root:delete exists table :GIS_ZDLUCE160926164400
+INFO:root:delete exists table :GIS_ZDLUCE160926165713
+INFO:root:delete exists table :GIS_ZDLUCE160926165800
+INFO:root:delete exists table :GIS_ZDLUCE160923145840
+INFO:root:delete exists table :GIS_ZDLUCE160923160022
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-01 04:25:30
+INFO:root:ø™ º ±º‰:2016-10-02 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-02 04:20:05
+INFO:root:ø™ º ±º‰:2016-10-03 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-03 04:20:49
+INFO:root:ø™ º ±º‰:2016-10-04 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-04 04:20:57
+INFO:root:ø™ º ±º‰:2016-10-05 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-05 04:20:09
+INFO:root:ø™ º ±º‰:2016-10-06 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-06 04:20:18
+INFO:root:ø™ º ±º‰:2016-10-07 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-07 04:20:33
+INFO:root:ø™ º ±º‰:2016-10-08 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-08 04:20:27
+INFO:root:ø™ º ±º‰:2016-10-09 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-09 04:20:33
+INFO:root:ø™ º ±º‰:2016-10-10 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-10 04:20:06
+INFO:root:ø™ º ±º‰:2016-10-11 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-11 04:20:58
+INFO:root:ø™ º ±º‰:2016-10-12 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-12 04:20:57
+INFO:root:ø™ º ±º‰:2016-10-13 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-13 04:19:59
+INFO:root:ø™ º ±º‰:2016-10-14 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE161013082542
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-14 04:19:56
+INFO:root:ø™ º ±º‰:2016-10-15 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-15 04:19:44
+INFO:root:ø™ º ±º‰:2016-10-16 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-16 04:20:01
+INFO:root:ø™ º ±º‰:2016-10-17 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-17 04:19:56
+INFO:root:ø™ º ±º‰:2016-10-18 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-18 04:19:45
+INFO:root:ø™ º ±º‰:2016-10-19 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-19 04:20:28
+INFO:root:ø™ º ±º‰:2016-10-20 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-20 04:20:17
+INFO:root:ø™ º ±º‰:2016-10-21 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-21 04:19:40
+INFO:root:ø™ º ±º‰:2016-10-22 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE161011093437
+INFO:root:delete exists table :GIS_ZDLUCE161019105039
+INFO:root:delete exists table :GIS_ZDLUCE161019105800
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-22 04:20:19
+INFO:root:ø™ º ±º‰:2016-10-23 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-23 04:21:32
+INFO:root:ø™ º ±º‰:2016-10-24 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-24 04:20:07
+INFO:root:ø™ º ±º‰:2016-10-25 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE161019110234
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-25 04:21:45
+INFO:root:ø™ º ±º‰:2016-10-26 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE161019105257
+INFO:root:delete exists table :GIS_ZDLUCE161019105514
+INFO:root:delete exists table :GIS_ZDLUCE161021112710
+INFO:root:delete exists table :GIS_ZDLUCE161021123251
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-26 04:20:57
+INFO:root:ø™ º ±º‰:2016-10-27 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE161025092832
+INFO:root:delete exists table :GIS_ZDLUCE161025100418
+INFO:root:delete exists table :GIS_ZDLUCE161025102657
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-27 04:23:02
+INFO:root:ø™ º ±º‰:2016-10-28 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-28 04:20:26
+INFO:root:ø™ º ±º‰:2016-10-29 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-29 04:21:01
+INFO:root:ø™ º ±º‰:2016-10-30 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-30 04:21:22
+INFO:root:ø™ º ±º‰:2016-10-31 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-10-31 04:20:45
+INFO:root:ø™ º ±º‰:2016-11-01 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE161031175823
+INFO:root:delete exists table :GIS_ZDLUCE161031175838
+INFO:root:delete exists table :GIS_ZDLUCE161031175910
+INFO:root:delete exists table :GIS_ZDLUCE161031175931
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-01 04:21:48
+INFO:root:ø™ º ±º‰:2016-11-02 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE161101125051
+INFO:root:delete exists table :GIS_ZDLUCE161101125849
+INFO:root:delete exists table :GIS_ZDLUCE161101091639
+INFO:root:delete exists table :GIS_ZDLUCE161101101517
+INFO:root:delete exists table :GIS_ZDLUCE161031225420
+INFO:root:delete exists table :GIS_ZDLUCE161031230344
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-02 04:22:25
+INFO:root:ø™ º ±º‰:2016-11-03 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE161102085634
+INFO:root:delete exists table :GIS_ZDLUCE161102085645
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-03 04:20:29
+INFO:root:ø™ º ±º‰:2016-11-04 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE161102100439
+INFO:root:delete exists table :GIS_ZDLUCE161102100448
+INFO:root:delete exists table :GIS_ZDLUCE161102100428
+INFO:root:delete exists table :GIS_ZDLUCE161101125032
+INFO:root:delete exists table :GIS_ZDLUCE161101104546
+INFO:root:delete exists table :GIS_ZDLUCE161101130106
+INFO:root:delete exists table :GIS_ZDLUCE161101161208
+INFO:root:delete exists table :GIS_ZDLUCE161101161217
+INFO:root:delete exists table :GIS_ZDLUCE161101161226
+INFO:root:delete exists table :GIS_ZDLUCE161101091619
+INFO:root:delete exists table :GIS_ZDLUCE161102085653
+INFO:root:delete exists table :GIS_ZDLUCE161102090959
+INFO:root:delete exists table :GIS_ZDLUCE161101083745
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-04 04:24:41
+INFO:root:ø™ º ±º‰:2016-11-05 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-05 04:20:25
+INFO:root:ø™ º ±º‰:2016-11-06 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-06 04:20:20
+INFO:root:ø™ º ±º‰:2016-11-07 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-07 04:20:07
+INFO:root:ø™ º ±º‰:2016-11-08 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE161103190704
+INFO:root:delete exists table :GIS_ZDLUCE161103190722
+INFO:root:delete exists table :GIS_ZDLUCE161103190641
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-08 04:22:20
+INFO:root:ø™ º ±º‰:2016-11-09 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-09 04:21:31
+INFO:root:ø™ º ±º‰:2016-11-10 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:ø™ º ±º‰:2016-11-10 10:17:38
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-10 10:18:30
+INFO:root:ø™ º ±º‰:2016-11-11 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-11 04:20:05
+INFO:root:ø™ º ±º‰:2016-11-12 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-12 04:19:59
+INFO:root:ø™ º ±º‰:2016-11-13 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-13 04:20:06
+INFO:root:ø™ º ±º‰:2016-11-14 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-14 04:20:15
+INFO:root:ø™ º ±º‰:2016-11-15 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-15 04:20:57
+INFO:root:ø™ º ±º‰:2016-11-16 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-16 04:20:59
+INFO:root:ø™ º ±º‰:2016-11-17 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-17 04:20:04
+INFO:root:ø™ º ±º‰:2016-11-18 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-18 04:20:15
+INFO:root:ø™ º ±º‰:2016-11-19 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-19 04:19:55
+INFO:root:ø™ º ±º‰:2016-11-20 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-20 04:20:06
+INFO:root:ø™ º ±º‰:2016-11-21 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-21 04:20:47
+INFO:root:ø™ º ±º‰:2016-11-22 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-22 04:20:14
+INFO:root:ø™ º ±º‰:2016-11-23 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-23 04:20:32
+INFO:root:ø™ º ±º‰:2016-11-24 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-24 04:20:08
+INFO:root:ø™ º ±º‰:2016-11-25 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-25 04:20:53
+INFO:root:ø™ º ±º‰:2016-11-26 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE161125155423
+INFO:root:delete exists table :GIS_ZDLUCE161125155540
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-26 04:22:45
+INFO:root:ø™ º ±º‰:2016-11-27 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-27 04:20:40
+INFO:root:ø™ º ±º‰:2016-11-28 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-28 04:21:41
+INFO:root:ø™ º ±º‰:2016-11-29 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-29 04:21:40
+INFO:root:ø™ º ±º‰:2016-11-30 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-11-30 04:21:20
+INFO:root:ø™ º ±º‰:2016-12-01 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-01 04:20:12
+INFO:root:ø™ º ±º‰:2016-12-02 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-02 04:20:43
+INFO:root:ø™ º ±º‰:2016-12-03 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-03 04:20:38
+INFO:root:ø™ º ±º‰:2016-12-04 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-04 04:20:16
+INFO:root:ø™ º ±º‰:2016-12-05 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-05 04:20:09
+INFO:root:ø™ º ±º‰:2016-12-06 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-06 04:20:42
+INFO:root:ø™ º ±º‰:2016-12-07 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-07 04:21:18
+INFO:root:ø™ º ±º‰:2016-12-08 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-08 04:20:17
+INFO:root:ø™ º ±º‰:2016-12-09 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-09 04:21:49
+INFO:root:ø™ º ±º‰:2016-12-10 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE161208162806
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-10 04:22:01
+INFO:root:ø™ º ±º‰:2016-12-11 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-11 04:20:29
+INFO:root:ø™ º ±º‰:2016-12-12 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-12 04:20:49
+INFO:root:ø™ º ±º‰:2016-12-13 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE161125155744
+INFO:root:delete exists table :GIS_ZDLUCE161125155853
+INFO:root:delete exists table :GIS_ZDLUCE161125160324
+INFO:root:delete exists table :GIS_ZDLUCE161125161202
+INFO:root:delete exists table :GIS_ZDLUCE161125162125
+INFO:root:delete exists table :GIS_ZDLUCE161125162438
+INFO:root:delete exists table :GIS_ZDLUCE161125162606
+INFO:root:delete exists table :GIS_ZDLUCE161125162856
+INFO:root:delete exists table :GIS_ZDLUCE161125163453
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-13 04:26:36
+INFO:root:ø™ º ±º‰:2016-12-14 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-14 04:23:03
+INFO:root:ø™ º ±º‰:2016-12-15 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-15 04:20:49
+INFO:root:ø™ º ±º‰:2016-12-16 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-16 04:20:18
+INFO:root:ø™ º ±º‰:2016-12-17 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-17 04:20:26
+INFO:root:ø™ º ±º‰:2016-12-18 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-18 04:20:29
+INFO:root:ø™ º ±º‰:2016-12-19 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-19 04:20:49
+INFO:root:ø™ º ±º‰:2016-12-20 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-20 04:20:47
+INFO:root:ø™ º ±º‰:2016-12-21 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-21 04:20:37
+INFO:root:ø™ º ±º‰:2016-12-22 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-22 04:20:57
+INFO:root:ø™ º ±º‰:2016-12-23 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-23 04:20:34
+INFO:root:ø™ º ±º‰:2016-12-24 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-24 04:20:58
+INFO:root:ø™ º ±º‰:2016-12-25 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-25 04:21:05
+INFO:root:ø™ º ±º‰:2016-12-26 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-26 04:20:41
+INFO:root:ø™ º ±º‰:2016-12-27 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE161222123922
+INFO:root:delete exists table :GIS_ZDLUCE161222112818
+INFO:root:delete exists table :GIS_ZDLUCE161222112833
+INFO:root:delete exists table :GIS_ZDLUCE161222112904
+INFO:root:delete exists table :GIS_ZDLUCE161222114148
+INFO:root:delete exists table :GIS_ZDLUCE161222100244
+INFO:root:delete exists table :GIS_ZDLUCE161222100310
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-27 04:21:10
+INFO:root:ø™ º ±º‰:2016-12-28 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-28 04:20:55
+INFO:root:ø™ º ±º‰:2016-12-29 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-29 04:20:40
+INFO:root:ø™ º ±º‰:2016-12-30 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-30 04:20:40
+INFO:root:ø™ º ±º‰:2016-12-31 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2016-12-31 04:20:13
+INFO:root:ø™ º ±º‰:2017-01-01 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-01 04:19:50
+INFO:root:ø™ º ±º‰:2017-01-02 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-02 04:19:43
+INFO:root:ø™ º ±º‰:2017-01-03 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-03 04:19:55
+INFO:root:ø™ º ±º‰:2017-01-04 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-04 04:19:53
+INFO:root:ø™ º ±º‰:2017-01-05 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-05 04:21:24
+INFO:root:ø™ º ±º‰:2017-01-06 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-06 04:20:42
+INFO:root:ø™ º ±º‰:2017-01-07 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-07 04:20:41
+INFO:root:ø™ º ±º‰:2017-01-08 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-08 04:20:22
+INFO:root:ø™ º ±º‰:2017-01-09 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-09 04:20:11
+INFO:root:ø™ º ±º‰:2017-01-10 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-10 04:20:22
+INFO:root:ø™ º ±º‰:2017-01-11 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-11 04:20:09
+INFO:root:ø™ º ±º‰:2017-01-12 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-12 04:19:59
+INFO:root:ø™ º ±º‰:2017-01-13 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-13 04:20:58
+INFO:root:ø™ º ±º‰:2017-01-14 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-14 04:20:56
+INFO:root:ø™ º ±º‰:2017-01-15 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-15 04:20:00
+INFO:root:ø™ º ±º‰:2017-01-16 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-16 04:20:09
+INFO:root:ø™ º ±º‰:2017-01-17 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-17 04:20:02
+INFO:root:ø™ º ±º‰:2017-01-18 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-18 04:19:58
+INFO:root:ø™ º ±º‰:2017-01-19 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-19 04:20:04
+INFO:root:ø™ º ±º‰:2017-01-20 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-20 04:20:17
+INFO:root:ø™ º ±º‰:2017-01-21 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-21 04:20:13
+INFO:root:ø™ º ±º‰:2017-01-22 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-22 04:22:08
+INFO:root:ø™ º ±º‰:2017-01-23 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-23 04:21:34
+INFO:root:ø™ º ±º‰:2017-01-24 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-24 04:20:10
+INFO:root:ø™ º ±º‰:2017-01-25 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-25 04:20:44
+INFO:root:ø™ º ±º‰:2017-01-26 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-26 04:20:25
+INFO:root:ø™ º ±º‰:2017-01-27 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-27 04:20:18
+INFO:root:ø™ º ±º‰:2017-01-28 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-28 04:20:05
+INFO:root:ø™ º ±º‰:2017-01-29 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-29 04:20:05
+INFO:root:ø™ º ±º‰:2017-01-30 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-30 04:20:28
+INFO:root:ø™ º ±º‰:2017-01-31 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-01-31 04:20:06
+INFO:root:ø™ º ±º‰:2017-02-01 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-01 04:20:05
+INFO:root:ø™ º ±º‰:2017-02-02 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-02 04:20:05
+INFO:root:ø™ º ±º‰:2017-02-03 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-03 04:20:19
+INFO:root:ø™ º ±º‰:2017-02-04 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-04 04:20:07
+INFO:root:ø™ º ±º‰:2017-02-05 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-05 04:20:11
+INFO:root:ø™ º ±º‰:2017-02-06 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-06 04:20:29
+INFO:root:ø™ º ±º‰:2017-02-07 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-07 04:20:27
+INFO:root:ø™ º ±º‰:2017-02-08 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-08 04:20:42
+INFO:root:ø™ º ±º‰:2017-02-09 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-09 04:21:20
+INFO:root:ø™ º ±º‰:2017-02-10 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-10 04:21:20
+INFO:root:ø™ º ±º‰:2017-02-11 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-11 04:22:49
+INFO:root:ø™ º ±º‰:2017-02-12 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-12 04:22:19
+INFO:root:ø™ º ±º‰:2017-02-13 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-13 04:22:08
+INFO:root:ø™ º ±º‰:2017-02-14 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-14 04:22:29
+INFO:root:ø™ º ±º‰:2017-02-15 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-15 04:22:57
+INFO:root:ø™ º ±º‰:2017-02-16 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-16 04:22:45
+INFO:root:ø™ º ±º‰:2017-02-17 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-17 04:19:41
+INFO:root:ø™ º ±º‰:2017-02-18 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-18 04:19:41
+INFO:root:ø™ º ±º‰:2017-02-19 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-19 04:19:41
+INFO:root:ø™ º ±º‰:2017-02-20 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-20 04:19:42
+INFO:root:ø™ º ±º‰:2017-02-21 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-21 04:19:45
+INFO:root:ø™ º ±º‰:2017-02-22 04:18:49
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-22 04:19:45
+INFO:root:ø™ º ±º‰:2017-02-23 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-23 04:19:47
+INFO:root:ø™ º ±º‰:2017-02-24 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-24 04:19:43
+INFO:root:ø™ º ±º‰:2017-02-25 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-25 04:19:41
+INFO:root:ø™ º ±º‰:2017-02-26 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-26 04:19:46
+INFO:root:ø™ º ±º‰:2017-02-27 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-27 04:19:45
+INFO:root:ø™ º ±º‰:2017-02-28 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-02-28 04:19:46
+INFO:root:ø™ º ±º‰:2017-03-01 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-01 04:19:44
+INFO:root:ø™ º ±º‰:2017-03-02 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-02 04:19:51
+INFO:root:ø™ º ±º‰:2017-03-03 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-03 04:19:54
+INFO:root:ø™ º ±º‰:2017-03-04 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-04 04:19:52
+INFO:root:ø™ º ±º‰:2017-03-05 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-05 04:19:51
+INFO:root:ø™ º ±º‰:2017-03-06 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-06 04:20:01
+INFO:root:ø™ º ±º‰:2017-03-07 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-07 04:20:01
+INFO:root:ø™ º ±º‰:2017-03-08 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-08 04:19:55
+INFO:root:ø™ º ±º‰:2017-03-09 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-09 04:19:57
+INFO:root:ø™ º ±º‰:2017-03-10 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-10 04:19:52
+INFO:root:ø™ º ±º‰:2017-03-11 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-11 04:19:48
+INFO:root:ø™ º ±º‰:2017-03-12 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-12 04:19:55
+INFO:root:ø™ º ±º‰:2017-03-13 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-13 04:19:59
+INFO:root:ø™ º ±º‰:2017-03-14 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-14 04:19:59
+INFO:root:ø™ º ±º‰:2017-03-15 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-15 04:20:10
+INFO:root:ø™ º ±º‰:2017-03-16 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-16 04:20:09
+INFO:root:ø™ º ±º‰:2017-03-17 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-17 04:20:31
+INFO:root:ø™ º ±º‰:2017-03-18 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-18 04:20:12
+INFO:root:ø™ º ±º‰:2017-03-19 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-19 04:20:21
+INFO:root:ø™ º ±º‰:2017-03-20 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-20 04:20:10
+INFO:root:ø™ º ±º‰:2017-03-21 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-21 04:20:33
+INFO:root:ø™ º ±º‰:2017-03-22 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-22 04:20:35
+INFO:root:ø™ º ±º‰:2017-03-23 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-23 04:20:28
+INFO:root:ø™ º ±º‰:2017-03-24 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-24 04:20:39
+INFO:root:ø™ º ±º‰:2017-03-25 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-25 04:20:57
+INFO:root:ø™ º ±º‰:2017-03-26 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-26 04:21:01
+INFO:root:ø™ º ±º‰:2017-03-27 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-27 04:21:15
+INFO:root:ø™ º ±º‰:2017-03-28 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-28 04:21:17
+INFO:root:ø™ º ±º‰:2017-03-29 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-29 04:21:29
+INFO:root:ø™ º ±º‰:2017-03-30 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-30 04:21:22
+INFO:root:ø™ º ±º‰:2017-03-31 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-03-31 04:19:49
+INFO:root:ø™ º ±º‰:2017-04-01 04:18:56
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-01 04:19:49
+INFO:root:ø™ º ±º‰:2017-04-02 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-02 04:19:40
+INFO:root:ø™ º ±º‰:2017-04-03 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-03 04:19:40
+INFO:root:ø™ º ±º‰:2017-04-04 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-04 04:19:41
+INFO:root:ø™ º ±º‰:2017-04-05 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-05 04:19:42
+INFO:root:ø™ º ±º‰:2017-04-06 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-06 04:19:42
+INFO:root:ø™ º ±º‰:2017-04-07 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-07 04:19:43
+INFO:root:ø™ º ±º‰:2017-04-08 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-08 04:19:56
+INFO:root:ø™ º ±º‰:2017-04-09 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-09 04:19:45
+INFO:root:ø™ º ±º‰:2017-04-10 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-10 04:19:46
+INFO:root:ø™ º ±º‰:2017-04-11 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE170406163043
+INFO:root:delete exists table :GIS_ZDLUCE170406163058
+INFO:root:delete exists table :GIS_ZDLUCE170406163108
+INFO:root:delete exists table :GIS_ZDLUCE170406163238
+INFO:root:delete exists table :GIS_ZDLUCE170406163246
+INFO:root:delete exists table :GIS_ZDLUCE170406163255
+INFO:root:delete exists table :GIS_ZDLUCE170406163309
+INFO:root:delete exists table :GIS_ZDLUCE170406163319
+INFO:root:delete exists table :GIS_ZDLUCE170406163327
+INFO:root:delete exists table :GIS_ZDLUCE170406163335
+INFO:root:delete exists table :GIS_ZDLUCE170406163344
+INFO:root:delete exists table :GIS_ZDLUCE170406163352
+INFO:root:delete exists table :GIS_ZDLUCE170406163401
+INFO:root:delete exists table :GIS_ZDLUCE170406163423
+INFO:root:delete exists table :GIS_ZDLUCE170406163433
+INFO:root:delete exists table :GIS_ZDLUCE170406163444
+INFO:root:delete exists table :GIS_ZDLUCE170406163454
+INFO:root:delete exists table :GIS_ZDLUCE170406163515
+INFO:root:delete exists table :GIS_ZDLUCE170406163523
+INFO:root:delete exists table :GIS_ZDLUCE170406163530
+INFO:root:delete exists table :GIS_ZDLUCE170406163539
+INFO:root:delete exists table :GIS_ZDLUCE170406163549
+INFO:root:delete exists table :GIS_ZDLUCE170406163601
+INFO:root:delete exists table :GIS_ZDLUCE170406163610
+INFO:root:delete exists table :GIS_ZDLUCE170406163620
+INFO:root:delete exists table :GIS_ZDLUCE170406163629
+INFO:root:delete exists table :GIS_ZDLUCE170406163638
+INFO:root:delete exists table :GIS_ZDLUCE170406163648
+INFO:root:delete exists table :GIS_ZDLUCE170410113248
+INFO:root:delete exists table :GIS_ZDLUCE170410113302
+INFO:root:delete exists table :GIS_ZDLUCE170410113310
+INFO:root:delete exists table :GIS_ZDLUCE170410113324
+INFO:root:delete exists table :GIS_ZDLUCE170410113340
+INFO:root:delete exists table :GIS_ZDLUCE170410113350
+INFO:root:delete exists table :GIS_ZDLUCE170410113402
+INFO:root:delete exists table :GIS_ZDLUCE170410113417
+INFO:root:delete exists table :GIS_ZDLUCE170410113427
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-11 04:21:59
+INFO:root:ø™ º ±º‰:2017-04-12 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE170410163638
+INFO:root:delete exists table :GIS_ZDLUCE170411084143
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-12 04:20:10
+INFO:root:ø™ º ±º‰:2017-04-13 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-13 04:19:51
+INFO:root:ø™ º ±º‰:2017-04-14 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-14 04:19:49
+INFO:root:ø™ º ±º‰:2017-04-15 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-15 04:19:55
+INFO:root:ø™ º ±º‰:2017-04-16 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-16 04:20:03
+INFO:root:ø™ º ±º‰:2017-04-17 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-17 04:19:54
+INFO:root:ø™ º ±º‰:2017-04-18 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-18 04:19:53
+INFO:root:ø™ º ±º‰:2017-04-19 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-19 04:19:57
+INFO:root:ø™ º ±º‰:2017-04-20 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-20 04:19:39
+INFO:root:ø™ º ±º‰:2017-04-21 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-21 04:19:57
+INFO:root:ø™ º ±º‰:2017-04-22 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-22 04:19:52
+INFO:root:ø™ º ±º‰:2017-04-23 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-23 04:20:01
+INFO:root:ø™ º ±º‰:2017-04-24 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-24 04:20:05
+INFO:root:ø™ º ±º‰:2017-04-25 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-25 04:20:06
+INFO:root:ø™ º ±º‰:2017-04-26 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-26 04:19:52
+INFO:root:ø™ º ±º‰:2017-04-27 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-27 04:20:14
+INFO:root:ø™ º ±º‰:2017-04-28 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-28 04:20:04
+INFO:root:ø™ º ±º‰:2017-04-29 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-29 04:20:25
+INFO:root:ø™ º ±º‰:2017-04-30 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-04-30 04:20:01
+INFO:root:ø™ º ±º‰:2017-05-01 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-01 04:20:28
+INFO:root:ø™ º ±º‰:2017-05-02 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-02 04:20:06
+INFO:root:ø™ º ±º‰:2017-05-03 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-03 04:20:36
+INFO:root:ø™ º ±º‰:2017-05-04 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-04 04:20:16
+INFO:root:ø™ º ±º‰:2017-05-05 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-05 04:20:30
+INFO:root:ø™ º ±º‰:2017-05-06 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-06 04:20:26
+INFO:root:ø™ º ±º‰:2017-05-07 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-07 04:20:50
+INFO:root:ø™ º ±º‰:2017-05-08 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-08 04:20:43
+INFO:root:ø™ º ±º‰:2017-05-09 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-09 04:21:17
+INFO:root:ø™ º ±º‰:2017-05-10 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-10 04:20:59
+INFO:root:ø™ º ±º‰:2017-05-11 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-11 04:20:52
+INFO:root:ø™ º ±º‰:2017-05-12 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-12 04:21:19
+INFO:root:ø™ º ±º‰:2017-05-13 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-13 04:19:44
+INFO:root:ø™ º ±º‰:2017-05-14 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-14 04:19:41
+INFO:root:ø™ º ±º‰:2017-05-15 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-15 04:19:56
+INFO:root:ø™ º ±º‰:2017-05-16 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-16 04:19:44
+INFO:root:ø™ º ±º‰:2017-05-17 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-17 04:19:55
+INFO:root:ø™ º ±º‰:2017-05-18 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-18 04:20:08
+INFO:root:ø™ º ±º‰:2017-05-19 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-19 04:19:43
+INFO:root:ø™ º ±º‰:2017-05-20 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-20 04:19:45
+INFO:root:ø™ º ±º‰:2017-05-21 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-21 04:19:41
+INFO:root:ø™ º ±º‰:2017-05-22 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-22 04:19:40
+INFO:root:ø™ º ±º‰:2017-05-23 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-23 04:19:44
+INFO:root:ø™ º ±º‰:2017-05-24 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-24 04:19:41
+INFO:root:ø™ º ±º‰:2017-05-25 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-25 04:19:50
+INFO:root:ø™ º ±º‰:2017-05-26 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-26 04:19:51
+INFO:root:ø™ º ±º‰:2017-05-26 15:52:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:delete exists table :GIS_ZDLUCE161025092814
+INFO:root:delete exists table :GIS_ZDLUCE160927174643
+INFO:root:delete exists table :GIS_ZDLUCE160927174728
+INFO:root:delete exists table :GIS_ZDLUCE160927175233
+INFO:root:delete exists table :GIS_ZDLUCE161025092740
+INFO:root:delete exists table :GIS_ZDLUCE161125112230
+INFO:root:delete exists table :GIS_ZDLUCE161025092906
+INFO:root:delete exists table :GIS_ZDLUCE161025100027
+INFO:root:delete exists table :GIS_ZDLUCE161025100316
+INFO:root:delete exists table :GIS_ZDLUCE161025100337
+INFO:root:delete exists table :GIS_ZDLUCE161025100359
+INFO:root:delete exists table :GIS_ZDLUCE161125113207
+INFO:root:delete exists table :GIS_ZDLUCE161025100441
+INFO:root:delete exists table :GIS_ZDLUCE161025100650
+INFO:root:delete exists table :GIS_ZDLUCE161025100715
+INFO:root:delete exists table :GIS_ZDLUCE161025102109
+INFO:root:delete exists table :GIS_ZDLUCE161025102127
+INFO:root:delete exists table :GIS_ZDLUCE161025102143
+INFO:root:delete exists table :GIS_ZDLUCE161025102201
+INFO:root:delete exists table :GIS_ZDLUCE161025102304
+INFO:root:delete exists table :GIS_ZDLUCE161025102322
+INFO:root:delete exists table :GIS_ZDLUCE161025102404
+INFO:root:delete exists table :GIS_ZDLUCE161025102433
+INFO:root:delete exists table :GIS_ZDLUCE161025102456
+INFO:root:delete exists table :GIS_ZDLUCE161025102531
+INFO:root:delete exists table :GIS_ZDLUCE161025102555
+INFO:root:delete exists table :GIS_ZDLUCE161025102609
+INFO:root:delete exists table :GIS_ZDLUCE161025102628
+INFO:root:delete exists table :GIS_ZDLUCE161125113417
+INFO:root:delete exists table :GIS_ZDLUCE161025102741
+INFO:root:delete exists table :GIS_ZDLUCE161025102819
+INFO:root:delete exists table :GIS_ZDLUCE161025102848
+INFO:root:delete exists table :GIS_ZDLUCE161025102919
+INFO:root:delete exists table :GIS_ZDLUCE161025102947
+INFO:root:delete exists table :GIS_ZDLUCE161222141156
+INFO:root:delete exists table :GIS_ZDLUCE161222141224
+INFO:root:delete exists table :GIS_ZDLUCE161222141245
+INFO:root:delete exists table :GIS_ZDLUCE161222141304
+INFO:root:delete exists table :GIS_ZDLUCE161222141320
+INFO:root:delete exists table :GIS_ZDLUCE161222141338
+INFO:root:delete exists table :GIS_ZDLUCE161222141406
+INFO:root:delete exists table :GIS_ZDLUCE161222141435
+INFO:root:delete exists table :GIS_ZDLUCE161222143557
+INFO:root:delete exists table :GIS_ZDLUCE161222143620
+INFO:root:delete exists table :GIS_ZDLUCE161222143634
+INFO:root:delete exists table :GIS_ZDLUCE161222143729
+INFO:root:delete exists table :GIS_ZDLUCE161222143752
+INFO:root:delete exists table :GIS_ZDLUCE161222145005
+INFO:root:delete exists table :GIS_ZDLUCE161226142841
+INFO:root:delete exists table :GIS_ZDLUCE160928091119
+INFO:root:delete exists table :GIS_ZDLUCE161024163851
+INFO:root:delete exists table :GIS_ZDLUCE161212144031
+INFO:root:delete exists table :GIS_ZDLUCE160927165700
+INFO:root:delete exists table :GIS_ZDLUCE161125174455
+INFO:root:delete exists table :GIS_ZDLUCE161212143939
+INFO:root:delete exists table :GIS_ZDLUCE161212150214
+INFO:root:delete exists table :GIS_ZDLUCE161212150249
+INFO:root:delete exists table :GIS_ZDLUCE161221143842
+INFO:root:delete exists table :GIS_ZDLUCE161221143913
+INFO:root:delete exists table :GIS_ZDLUCE161221143937
+INFO:root:delete exists table :GIS_ZDLUCE161221143957
+INFO:root:delete exists table :GIS_ZDLUCE160927170143
+INFO:root:delete exists table :GIS_ZDLUCE160927170216
+INFO:root:delete exists table :GIS_ZDLUCE160927170237
+INFO:root:delete exists table :GIS_ZDLUCE160927170314
+INFO:root:delete exists table :GIS_ZDLUCE160927170413
+INFO:root:delete exists table :GIS_ZDLUCE160927170515
+INFO:root:delete exists table :GIS_ZDLUCE160927173116
+INFO:root:delete exists table :GIS_ZDLUCE160927173331
+INFO:root:delete exists table :GIS_ZDLUCE160927174408
+INFO:root:delete exists table :GIS_ZDLUCE160927174515
+INFO:root:delete exists table :GIS_ZDLUCE160928091102
+INFO:root:delete exists table :GIS_ZDLUCE161221144023
+INFO:root:delete exists table :GIS_ZDLUCE161221144203
+INFO:root:delete exists table :GIS_ZDLUCE161221144225
+INFO:root:delete exists table :GIS_ZDLUCE161221144251
+INFO:root:delete exists table :GIS_ZDLUCE161222123730
+INFO:root:delete exists table :GIS_ZDLUCE161222123947
+INFO:root:delete exists table :GIS_ZDLUCE161222124118
+INFO:root:delete exists table :GIS_ZDLUCE161222124158
+INFO:root:delete exists table :GIS_ZDLUCE161222124318
+INFO:root:delete exists table :GIS_ZDLUCE161222124355
+INFO:root:delete exists table :GIS_ZDLUCE161222124431
+INFO:root:delete exists table :GIS_ZDLUCE161222124458
+INFO:root:delete exists table :GIS_ZDLUCE161026111650
+INFO:root:delete exists table :GIS_ZDLUCE161130103326
+INFO:root:delete exists table :GIS_ZDLUCE161130103433
+INFO:root:delete exists table :GIS_ZDLUCE161212165940
+INFO:root:delete exists table :GIS_ZDLUCE161212170058
+INFO:root:delete exists table :GIS_ZDLUCE161102085818
+INFO:root:delete exists table :GIS_ZDLUCE161212170128
+INFO:root:delete exists table :GIS_ZDLUCE161026111454
+INFO:root:delete exists table :GIS_ZDLUCE161222094959
+INFO:root:delete exists table :GIS_ZDLUCE161102092545
+INFO:root:delete exists table :GIS_ZDLUCE161222102038
+INFO:root:delete exists table :GIS_ZDLUCE161222112932
+INFO:root:delete exists table :GIS_ZDLUCE161222113331
+INFO:root:delete exists table :GIS_ZDLUCE161222113350
+INFO:root:delete exists table :GIS_ZDLUCE161222114606
+INFO:root:delete exists table :GIS_ZDLUCE161222115127
+INFO:root:delete exists table :GIS_ZDLUCE161222115517
+INFO:root:delete exists table :GIS_ZDLUCE161107095516
+INFO:root:delete exists table :GIS_ZDLUCE161107095546
+INFO:root:delete exists table :GIS_ZDLUCE161125144515
+INFO:root:delete exists table :GIS_ZDLUCE161125150522
+INFO:root:delete exists table :GIS_ZDLUCE161125151615
+INFO:root:delete exists table :GIS_ZDLUCE161212165414
+INFO:root:delete exists table :GIS_ZDLUCE161221113824
+INFO:root:delete exists table :GIS_ZDLUCE161221113915
+INFO:root:delete exists table :GIS_ZDLUCE161221114008
+INFO:root:delete exists table :GIS_ZDLUCE161125160001
+INFO:root:delete exists table :GIS_ZDLUCE161125160236
+INFO:root:delete exists table :GIS_ZDLUCE161221114645
+INFO:root:delete exists table :GIS_ZDLUCE161221114709
+INFO:root:delete exists table :GIS_ZDLUCE161222095138
+INFO:root:delete exists table :GIS_ZDLUCE161125162550
+INFO:root:delete exists table :GIS_ZDLUCE161125163434
+INFO:root:delete exists table :GIS_ZDLUCE161125163823
+INFO:root:delete exists table :GIS_ZDLUCE161125163855
+INFO:root:delete exists table :GIS_ZDLUCE161125163936
+INFO:root:delete exists table :GIS_ZDLUCE161125164055
+INFO:root:delete exists table :GIS_ZDLUCE161125164115
+INFO:root:delete exists table :GIS_ZDLUCE161125164141
+INFO:root:delete exists table :GIS_ZDLUCE161125164205
+INFO:root:delete exists table :GIS_ZDLUCE161125174226
+INFO:root:delete exists table :GIS_ZDLUCE161125174338
+INFO:root:delete exists table :GIS_ZDLUCE161226133847
+INFO:root:delete exists table :GIS_ZDLUCE161209084402
+INFO:root:delete exists table :GIS_ZDLUCE161226133918
+INFO:root:delete exists table :GIS_ZDLUCE161226133930
+INFO:root:delete exists table :GIS_ZDLUCE161226134905
+INFO:root:delete exists table :GIS_ZDLUCE161226135055
+INFO:root:delete exists table :GIS_ZDLUCE161226135111
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-26 16:14:47
+INFO:root:ø™ º ±º‰:2017-05-27 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-27 04:19:49
+INFO:root:ø™ º ±º‰:2017-05-28 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-28 04:19:59
+INFO:root:ø™ º ±º‰:2017-05-29 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-29 04:19:52
+INFO:root:ø™ º ±º‰:2017-05-30 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-30 04:20:05
+INFO:root:ø™ º ±º‰:2017-05-31 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-05-31 04:20:21
+INFO:root:ø™ º ±º‰:2017-06-01 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-01 04:20:09
+INFO:root:ø™ º ±º‰:2017-06-02 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-02 04:20:19
+INFO:root:ø™ º ±º‰:2017-06-03 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-03 04:20:18
+INFO:root:ø™ º ±º‰:2017-06-04 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-04 04:20:30
+INFO:root:ø™ º ±º‰:2017-06-05 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-05 04:21:00
+INFO:root:ø™ º ±º‰:2017-06-06 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-06 04:21:01
+INFO:root:ø™ º ±º‰:2017-06-07 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-07 04:19:40
+INFO:root:ø™ º ±º‰:2017-06-08 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-08 04:19:39
+INFO:root:ø™ º ±º‰:2017-06-09 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-09 04:19:39
+INFO:root:ø™ º ±º‰:2017-06-10 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-10 04:19:38
+INFO:root:ø™ º ±º‰:2017-06-11 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-11 04:19:40
+INFO:root:ø™ º ±º‰:2017-06-12 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-12 04:19:40
+INFO:root:ø™ º ±º‰:2017-06-13 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-13 04:19:38
+INFO:root:ø™ º ±º‰:2017-06-14 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-14 04:19:40
+INFO:root:ø™ º ±º‰:2017-06-15 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-15 04:19:36
+INFO:root:ø™ º ±º‰:2017-06-16 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-16 04:19:39
+INFO:root:ø™ º ±º‰:2017-06-17 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-17 04:19:39
+INFO:root:ø™ º ±º‰:2017-06-18 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-18 04:19:39
+INFO:root:ø™ º ±º‰:2017-06-19 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-19 04:19:38
+INFO:root:ø™ º ±º‰:2017-06-20 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-20 04:19:38
+INFO:root:ø™ º ±º‰:2017-06-21 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-21 04:19:38
+INFO:root:ø™ º ±º‰:2017-06-22 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-22 04:19:39
+INFO:root:ø™ º ±º‰:2017-06-23 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-23 04:19:38
+INFO:root:ø™ º ±º‰:2017-06-24 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-24 04:19:42
+INFO:root:ø™ º ±º‰:2017-06-25 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-25 04:19:42
+INFO:root:ø™ º ±º‰:2017-06-26 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-26 04:19:39
+INFO:root:ø™ º ±º‰:2017-06-27 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-27 04:19:40
+INFO:root:ø™ º ±º‰:2017-06-28 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-28 04:19:43
+INFO:root:ø™ º ±º‰:2017-06-29 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-29 04:19:46
+INFO:root:ø™ º ±º‰:2017-06-30 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-06-30 04:19:56
+INFO:root:ø™ º ±º‰:2017-07-01 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-01 04:19:50
+INFO:root:ø™ º ±º‰:2017-07-02 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-02 04:20:02
+INFO:root:ø™ º ±º‰:2017-07-03 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-03 04:20:07
+INFO:root:ø™ º ±º‰:2017-07-04 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-04 04:20:10
+INFO:root:ø™ º ±º‰:2017-07-05 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-05 04:20:22
+INFO:root:ø™ º ±º‰:2017-07-06 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-06 04:20:39
+INFO:root:ø™ º ±º‰:2017-07-07 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-07 04:20:43
+INFO:root:ø™ º ±º‰:2017-07-08 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-08 04:21:10
+INFO:root:ø™ º ±º‰:2017-07-09 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-09 04:21:15
+INFO:root:ø™ º ±º‰:2017-07-10 04:18:48
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-10 04:21:28
+INFO:root:ø™ º ±º‰:2017-07-11 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-11 04:19:41
+INFO:root:ø™ º ±º‰:2017-07-12 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-12 04:19:44
+INFO:root:ø™ º ±º‰:2017-07-13 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-13 04:19:42
+INFO:root:ø™ º ±º‰:2017-07-14 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-14 04:19:41
+INFO:root:ø™ º ±º‰:2017-07-15 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-15 04:19:40
+INFO:root:ø™ º ±º‰:2017-07-16 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-16 04:19:42
+INFO:root:ø™ º ±º‰:2017-07-17 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-17 04:19:43
+INFO:root:ø™ º ±º‰:2017-07-18 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-18 04:19:50
+INFO:root:ø™ º ±º‰:2017-07-19 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-19 04:19:42
+INFO:root:ø™ º ±º‰:2017-07-20 04:18:47
+INFO:root:STOP SERVICE ----------------------
+INFO:root:DELETE TABLE ----------------------
+INFO:root:START SERVICE ----------------------
+INFO:root:Ω· ¯ ±º‰:2017-07-20 04:19:51

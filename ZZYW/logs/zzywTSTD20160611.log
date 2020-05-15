@@ -1,0 +1,4 @@
+INFO:root:2016-06-11 14:10:37
+INFO:root:create ZZYM TSTD table
+INFO:root:do create Gis table
+ERROR:root:'ascii' codec can't encode characters in position 0-1: ordinal not in range(128)
